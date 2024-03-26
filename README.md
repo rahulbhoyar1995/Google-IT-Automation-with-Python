@@ -23,7 +23,8 @@ Certificates of the courses
 
 **Certificate :**
 
-![Google IT Automation with Python Certification](specialisation_certificate/Google_IT_Automation_with_Python_certificate.jpg)
+[Google IT Automation with Python Certification](https://www.coursera.org/account/accomplishments/professional-cert/HBXCUMVJSJXP)
+
 
 
 Specialisation completed on **15th May 2022**.
